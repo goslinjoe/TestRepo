@@ -1,0 +1,16 @@
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learning Visual Studio.exe
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learning Visual Studio.deps.json
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learning Visual Studio.runtimeconfig.json
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learning Visual Studio.runtimeconfig.dev.json
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learning Visual Studio.dll
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\ref\learning Visual Studio.dll
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learning Visual Studio.pdb
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learning Visual Studio.csproj.AssemblyReference.cache
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learning Visual Studio.GeneratedMSBuildEditorConfig.editorconfig
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learning Visual Studio.AssemblyInfoInputs.cache
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learning Visual Studio.AssemblyInfo.cs
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learning Visual Studio.csproj.CoreCompileInputs.cache
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learning Visual Studio.dll
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\ref\learning Visual Studio.dll
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learning Visual Studio.pdb
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learning Visual Studio.genruntimeconfig.cache
