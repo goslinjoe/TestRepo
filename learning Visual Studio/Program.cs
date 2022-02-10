@@ -4,6 +4,14 @@ namespace learning_Visual_Studio {
     class Program {
         static void Main() {
 
+            // BREAKPOINT EXAMPLE
+            // ----------------------------------------------------------
+            Console.WriteLine("BREAKPOINT example: ");
+            int myVal = 50;
+            Console.WriteLine(myVal);
+            Console.WriteLine("");
+
+
             // ARITHMETIC EXAMPLE
             // ----------------------------------------------------------
             Console.WriteLine("ARITHMETIC example: ");
