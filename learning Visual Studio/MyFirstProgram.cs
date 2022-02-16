@@ -95,12 +95,15 @@ using System;
             // ----------------------------------------------------------
             BankAccount myAccount = new BankAccount();  // "new" is an object-creation expression, and the Type ("Account") should match the class we're instantiating
             Console.WriteLine($"Initial name is: {myAccount.GetName()}");  // Account has a method called "GetName", so the new object "myAccount" will hve this as well
+            Console.WriteLine($"Initial name is: {myAccount.Name}");  // an accessor PROPERTY called "Name" (uppercase), that acts like the GetName method
 
             Console.Write("Enter the name: ");
             string theName = Console.ReadLine();
             myAccount.SetName(theName);
+            myAccount.Name = theName;  // uses the SET ACCESSOR to update the value of the "Name" PROPERTY, in the same way that the SetName method updated our object's instance variable "name" (lowercase)
 
             Console.WriteLine($"myAccount's name is: {myAccount.GetName()}");
+            Console.WriteLine($"myAccount's name is: {myAccount.Name}");  // we're doing everything two ways here, to show method calls versus property ACCESSOR calls
             Console.WriteLine("");
 
 
