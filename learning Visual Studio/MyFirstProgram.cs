@@ -1,8 +1,18 @@
-﻿using System;
+﻿// NAMESPACES, collections of predefined classes related to some common functionality
+using System;
 
-namespace learning_Visual_Studio {
-    class Program {
-        static void Main() {
+// namespace learning_Visual_Studio {
+    
+    // every app contains at least one user-defined class (each word in the class name begins with a capital letter [camel case])...
+    // the .cs file name is usually this first class name followed by ".cs"
+
+    class MyFirstProgram 
+    {
+
+        // ENTRY POINT, the "Main" method (parentheses indicate this is a method)
+        // "void" means this method will NOT return a value when it's done
+        static void Main() 
+        {
 
             // objects are instances of a class (the blueprint for the object), and can contain ATTRIBUTES (name, color, size, etc) and BEHAVIORS (a set of methods for performing tasks)
             // objects have "accessors" (get and set) for those properties we want to be able to interface with (other attributes may be "internal" only)
@@ -13,7 +23,8 @@ namespace learning_Visual_Studio {
             
             // .NET Framework = a collection of standard prebuilt classes (I/O, db, networking, mobile, file access, web comm, etc) that help a developer build quickly (and avoid re-inventing the wheel)
 
-            // VS "apps" -- built from "solutions" -- built from "projects"
+            // VisualStudio "apps" -- built from "solutions" -- built from "projects"
+            // File > New > Project ...Installed > Templates > Visual C# ...Windows > Console Application
 
 
 
@@ -77,5 +88,7 @@ namespace learning_Visual_Studio {
             Console.WriteLine("");
 
         }
+
     }
-}
+
+// }
