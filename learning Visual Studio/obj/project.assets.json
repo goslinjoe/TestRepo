@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\visualStudio\\my_projects\\learning Visual Studio\\learning Visual Studio\\learning Visual Studio.csproj",
-      "projectName": "learning Visual Studio",
-      "projectPath": "H:\\visualStudio\\my_projects\\learning Visual Studio\\learning Visual Studio\\learning Visual Studio.csproj",
+      "projectUniqueName": "H:\\visualStudio\\my_projects\\learning Visual Studio\\learning Visual Studio\\learningVisualStudio.csproj",
+      "projectName": "learningVisualStudio",
+      "projectPath": "H:\\visualStudio\\my_projects\\learning Visual Studio\\learning Visual Studio\\learningVisualStudio.csproj",
       "packagesPath": "C:\\Users\\joseph.charbonneau\\.nuget\\packages\\",
       "outputPath": "H:\\visualStudio\\my_projects\\learning Visual Studio\\learning Visual Studio\\obj\\",
       "projectStyle": "PackageReference",

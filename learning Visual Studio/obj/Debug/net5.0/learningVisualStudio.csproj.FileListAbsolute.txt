@@ -1,0 +1,16 @@
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learningVisualStudio.exe
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learningVisualStudio.deps.json
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learningVisualStudio.runtimeconfig.json
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learningVisualStudio.runtimeconfig.dev.json
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learningVisualStudio.dll
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\ref\learningVisualStudio.dll
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\bin\Debug\net5.0\learningVisualStudio.pdb
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learningVisualStudio.csproj.AssemblyReference.cache
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learningVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learningVisualStudio.AssemblyInfoInputs.cache
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learningVisualStudio.AssemblyInfo.cs
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learningVisualStudio.csproj.CoreCompileInputs.cache
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learningVisualStudio.dll
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\ref\learningVisualStudio.dll
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learningVisualStudio.pdb
+H:\visualStudio\my_projects\learning Visual Studio\learning Visual Studio\obj\Debug\net5.0\learningVisualStudio.genruntimeconfig.cache
