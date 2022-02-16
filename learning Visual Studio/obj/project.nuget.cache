@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CmWQYic5RVLlOYg21lAhDlxwiwh4lLS+bZiVjZFPQxlp2e8V3kJrBD5ZMVh1f+kHIR6VznJXzLhdr8DKKF81yw==",
+  "dgSpecHash": "wMXzeWq6tBdqYFhfxjctTWeDtVJP/Uxwg4F1fElBieJYLkQqwI6umVJvpIP4IRh1yQ7KZiv0rQFeHepUe7yPow==",
   "success": true,
   "projectFilePath": "H:\\visualStudio\\my_projects\\learning Visual Studio\\learning Visual Studio\\learning Visual Studio.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\joseph.charbonneau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
